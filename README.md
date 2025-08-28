@@ -7,9 +7,13 @@ This project analyzes OLA ride data to gain insights into customer behavior, rid
 
  # Key Objectives
 Explore booking patterns and ride volume over time.
+
 Analyze cancellations by customers and drivers with reasons.
+
 Study revenue distribution across different payment methods.
+
 Identify top customers and high-performing vehicle types.
+
 Compare customer and driver ratings.
 
 # Tools & Technologies
@@ -21,13 +25,19 @@ Power BI: For building interactive dashboards and visualizations.
 # Insights & Dashboards
 
 Ride volume trends and booking status breakdown.
+
 Revenue analysis by payment method.
+
 Top 5 customers and top vehicle types by ride distance.
+
 Cancellation reasons from both customers and drivers.
+
 Distribution of driver and customer ratings.
 
 # Future Scope
 
 Integrate predictive models to forecast ride demand.
+
 Apply churn analysis to identify at-risk customers.
+
 Build a real-time analytics dashboard for OLA management.
