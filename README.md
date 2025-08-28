@@ -15,6 +15,7 @@ Compare customer and driver ratings.
 # Tools & Technologies
 
 SQL: For data extraction, cleaning, and aggregation.
+
 Power BI: For building interactive dashboards and visualizations.
 
 # Insights & Dashboards
